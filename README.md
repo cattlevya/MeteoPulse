@@ -121,11 +121,10 @@ flutter run
 
 ## Screenshot
 
-- `![Splash](screenshots/splash.png)`
-- `![Home](screenshots/home.png)`
-- `![Search](screenshots/search.png)`
-- `![Favorit](screenshots/favorites.png)`
-- `![Forecast](screenshots/forecast.png)`
-- `![Detail](screenshots/detail.png)`
-- `![Pengaturan](screenshots/settings.png)`
-- `![Error](screenshots/error.png)`
+| Splash | Home | Search | Favorit |
+| :---: | :---: | :---: | :---: |
+| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Favorit](screenshots/favorites.png) |
+
+| Forecast | Detail | Pengaturan | Error |
+| :---: | :---: | :---: | :---: |
+| ![Forecast](screenshots/forecast.png) | ![Detail](screenshots/detail.png) | ![Pengaturan](screenshots/settings.png) | ![Error](screenshots/error.png) |
