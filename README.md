@@ -123,8 +123,8 @@ flutter run
 
 | Splash | Home | Search | Favorit |
 | :---: | :---: | :---: | :---: |
-| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Favorit](screenshots/favorites.png) |
+| <img src="screenshots/splash.png" alt="Splash" width="200" /> | <img src="screenshots/home.png" alt="Home" width="200" /> | <img src="screenshots/search.png" alt="Search" width="200" /> | <img src="screenshots/favorites.png" alt="Favorit" width="200" /> |
 
 | Forecast | Detail | Pengaturan | Error |
 | :---: | :---: | :---: | :---: |
-| ![Forecast](screenshots/forecast.png) | ![Detail](screenshots/detail.png) | ![Pengaturan](screenshots/settings.png) | ![Error](screenshots/error.png) |
+| <img src="screenshots/forecast.png" alt="Forecast" width="200" /> | <img src="screenshots/detail.png" alt="Detail" width="200" /> | <img src="screenshots/settings.png" alt="Pengaturan" width="200" /> | <img src="screenshots/error.png" alt="Error" width="200" /> |
